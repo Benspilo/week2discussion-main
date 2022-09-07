@@ -1,0 +1,14 @@
+body{
+    font: Courier, "Times New Roman", Impact;
+    line-height: 2;
+    color:aquamarine;
+    background-color: blanchedalmond;
+    font-size: 38px;
+
+}
+img{
+    border: 25px solid coral;
+}
+li{
+    border:solid 25px orange;
+}
